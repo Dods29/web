@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+.frame{
+    border: 50px;
+    filter: blur(1px);
+    rotate: 0.6deg;
+}
