@@ -11,5 +11,6 @@ th, td {
 .frame{
     border: 50px;
     filter: blur(1px);
+    font-style: italic;
     rotate: 0.6deg;
 }
